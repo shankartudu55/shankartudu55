@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shankartudu55
+- 👋 Hi, I’m @Shankar_Tudu
 - 👀 I’m interested in prograqmming and software development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ...
